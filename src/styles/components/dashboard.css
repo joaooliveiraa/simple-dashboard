@@ -1,0 +1,11 @@
+.container-dashboard {
+    display: flex;
+}
+
+.div-grafico {
+    width: 50%;
+}
+
+.div-maps {
+    width: 50%;
+}
