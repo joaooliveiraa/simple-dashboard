@@ -2,4 +2,4 @@
 
 Esse projeto buscou criar um dashboard simples para meios de estudo. 
 
- ![Screenshot](dashboard.png)
+ ![Screenshot](dashboard.PNG)
